@@ -11,7 +11,7 @@ You'll need to have the following items installed before continuing.
 
 ## Quickstart
 
-`>> git clone https://git.anguiano.me/Christian/gulp-foundation5-bourbon-libsass.git`
+`>> git clone https://git.anguiano.me/christian/gulp-foundation-5-template.git`
 
 `>> npm install (This will install all dependencies required for gulp to work.)
 `
