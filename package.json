@@ -1,0 +1,22 @@
+{
+    "name": "Gulp-Foundation-5-Template",
+    "version": "1.0.2",
+    "description": "This is a Gulp template to start your own project using Foundation 5, Jade, Bourbon and libsass.",
+    "main": "index.js",
+    "author": "",
+    "license": "BSD",
+    "repository": "https://git.anguiano.me/Christian/gulp-foundation5-bourbon-libsass.git",
+    "devDependencies": {
+        "gulp": "~3.5.2",
+        "gulp-sass": "~0.6.0",
+        "gulp-watch": "~0.5.0",
+        "gulp-autoprefixer": "0.0.6",
+        "gulp-minify-css": "~0.3.0",
+        "gulp-imagemin": "~0.1.5",
+        "tiny-lr": "0.0.5",
+        "gulp-livereload": "~1.0.1",
+        "gulp-jade": "~0.4.1",
+        "gulp-uglify": "~0.2.1",
+        "gulp-plumber": "~0.5.6"
+    }
+}

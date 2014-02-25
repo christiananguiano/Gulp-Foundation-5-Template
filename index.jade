@@ -1,0 +1,35 @@
+doctype html
+html(lang="en")
+	head
+		meta(name="viewport", content="width=device-width, initial-scale=1")
+		title Gulp - Foundation 5 Template
+		script(src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js", type="text/javascript")
+		link(href="assets/css/main.css", rel="stylesheet")
+	body
+		.contain-to-grid
+			nav.top-bar(data-topbar)
+				ul.title-area
+					li.name
+						h1
+							a(href="#") GULP - Foundation 5 Template
+					li.toggle-topbar.menu-icon
+						a(href="#")
+				section.top-bar-section
+					ul.right
+						li.active
+							a(href="#") Link 1
+						li
+							a(href="#") Link 2
+						li
+							a(href="#") Link 3
+						li.has-dropdown
+							a(href="#") Dropdown
+							ul.dropdown
+								li
+									a(href="#") Dropdown link
+		
+		
+		script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js")
+		script(src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/js/foundation.min.js")
+		script
+			|$(document).foundation();
