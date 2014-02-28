@@ -1,6 +1,6 @@
 # Gulp Foundation 5 Template
 
-This is a Gulp template to start your own project Foundation 5.1, Jade, Bourbon and libsass to compile it all up!
+This is a Gulp template to start your own project with Foundation 5.1.
 
 ## Requirements
 
