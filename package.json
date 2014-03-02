@@ -1,7 +1,7 @@
 {
     "name": "Gulp-Foundation-5-Template",
-    "version": "1.0.2",
-    "description": "This is a Gulp template to start your own project using Foundation 5, Jade, Bourbon and libsass.",
+    "version": "1.0.3",
+    "description": "This is a Gulp template to start your own project with Foundation 5.1.",
     "main": "index.js",
     "author": "",
     "license": "BSD",
