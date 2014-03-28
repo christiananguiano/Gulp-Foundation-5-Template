@@ -57,7 +57,7 @@ gulp.task('uglify', function() {
         .pipe(gulp.dest('Build/assets/js'));
 });
 
-// Compress images.
+// Compress images
 gulp.task('imagemin', function() {
     gulp.src(paths.images)
         .pipe(plumber())
