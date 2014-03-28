@@ -36,7 +36,7 @@ gulp.task('sass', function() {
     gulp.src(['assets/scss/*.scss', '!assets/scss/_variables.scss'])
         .pipe(plumber())
         .pipe(sass({
-            includePaths: ['assets/scss'],
+            includePaths: ['assets/scss', 'bower_components/foundation/scss'],
             outputStyle: 'expanded'
         }))
         .pipe(prefix(
