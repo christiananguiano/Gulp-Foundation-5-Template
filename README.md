@@ -13,9 +13,9 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 #####*Run the following commands in Terminal in order to install all dependancies.*
 	
-  >> git clone https://git.anguiano.me/christian/gulp-foundation-5-template.git
+   >> git clone https://git.anguiano.me/christian/gulp-foundation-5-template.git
 ___
-	>> npm install && bower install 
+   >> npm install && bower install 
 
 While you're working on your project, run:
 
