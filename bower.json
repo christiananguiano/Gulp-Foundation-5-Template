@@ -4,7 +4,7 @@
     "authors": [
         "Christian Anguiano <christian@anguiano.me>"
     ],
-    "description": "This is a Gulp template to start your own project with Foundation 5.",
+    "description": "This is a Gulp template to start your own project using the Foundation 5 framework.",
     "license": "MIT",
     "homepage": "https://git.anguiano.me/christian/gulp-foundation-5-template.git",
     "private": true,
@@ -12,11 +12,9 @@
         "**/.*",
         "node_modules",
         "bower_components",
-        "app/bower_components",
-        "test",
-        "tests"
+        "app/bower_components"
     ],
     "devDependencies": {
-        "foundation": "~5.2.1"
+        "foundation": "~5.2.2"
     }
 }
