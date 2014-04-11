@@ -3,3 +3,4 @@ node_modules/
 Build/assets/
 Build/*.html
 bower_components/
+README.html
