@@ -12,7 +12,7 @@ You'll need to have the following items installed before continuing.
 
 ## Quickstart
 
-`>> git clone https://git.anguiano.me/christian/gulp-foundation-5-template.git`
+`>> git clone https://github.com/christiananguiano/Gulp-Foundation-5-Template.git`
 
 `>> npm install && bower install` (This will install all dependencies required for gulp to work.)
 
