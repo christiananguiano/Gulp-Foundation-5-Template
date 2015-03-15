@@ -28,4 +28,4 @@ And you're set!
   * `assets/scss/_settings.scss`: Configure Foundation settings here.
   * `Build/`: compiled versions of Jade and Sass go here.
 
-Link to git repository: [Gulp - Foundation 5 Template](https://git.anguiano.me/christian/gulp-foundation-5-template)
+Link to git repository: [Gulp - Foundation 5 Template](https://github.com/christiananguiano/Gulp-Foundation-5-Template.git)
