@@ -1,2 +1,16 @@
+// You custom settings file to override Foundation defaults
 @import "settings";
+
+// Comment out this import if you are customizing you imports below
 @import "foundation";
+
+
+.panel {
+  margin: .5em auto;
+}
+
+code {
+  background: rgba(241, 59, 53, 0.77);
+  padding: .25em;
+  color: #fff;
+}

@@ -1,6 +1,6 @@
 {
     "name": "gulp-foundation5-template",
-    "version": "1.0.4",
+    "version": "2.0",
     "authors": [
         "Christian Anguiano <christian@anguiano.me>"
     ],
@@ -15,6 +15,6 @@
         "app/bower_components"
     ],
     "devDependencies": {
-        "foundation": "~5.2.2"
+        "foundation": "latest"
     }
 }
