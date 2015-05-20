@@ -32,7 +32,7 @@ Make sure you have the following packages installed before continuing:
 
 `$ gulp`
 
-A new browser tab should open with a live preview of the site, and Browser Sync ready to go. Check the terminal window for the exact URL.
+A new browser tab should open with a live preview of the site and Browser Sync ready to go. Check the terminal window for the exact URL.
 
 ## Directory Structure
 
